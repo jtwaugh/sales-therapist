@@ -1,0 +1,26 @@
+
+.share-with-friends-button {
+    max-width: 200px;
+    min-width: 100px;
+    height: 40px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 10px auto;
+    font-size: 16px;
+}
+
+.url-copied-text {
+    color: white;
+    font-size: 16px;
+    margin-top: '10px'
+}
+
+.share-with-friends-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
